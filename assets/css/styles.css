@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans' !important;
+    background: rgb(106, 90, 205) !important;
+    color: #ffffff !important;
+    /* font-size: 1 */
+}
+
+li {
+    display: inline-block;
+    padding: 5px;
+}
+
+a {
+    color: white !important;
+}
+
+button {
+    cursor: pointer;
+}
